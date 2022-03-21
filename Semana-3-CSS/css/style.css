@@ -1,0 +1,128 @@
+
+.titulo-principal {
+    text-align: justify;
+    color: #034777;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.subtitulo {
+    text-align: justify;
+    color: #034777;
+    font-weight: 500px;
+    font-size: 30px;
+}
+
+.letras-gris {
+    color: dimgrey;
+    font-size: 20px;
+}
+
+.letras-azules {
+    color: #034777;
+    font-size: 20px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.trademark-title {
+   color: #1590e7; 
+   font-size: 25px;
+   font-weight: 900;
+}
+
+#navbarButton  {
+    text-align: center;
+}
+
+#welcome {
+    padding-top: 10%;
+}
+
+#welcome .column-dos-welcome img {
+    width: 100%;
+    height: 100%;
+}
+
+#welcome .column-uno-welcome {
+    padding-top: 3%;
+    
+}
+
+
+.fila-uno {
+    z-index: 1;
+}
+
+.fila-dos {
+    
+    width: 600px;
+    z-index: 2;
+    
+    margin-left: 15%;
+}
+
+.fila-dos  .barra{
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    border-color: aliceblue;
+    box-shadow: 5px 5px 5px 5px rgba(50, 50, 240, 0.05);
+    
+}
+
+.fila-uno  .barra{
+    margin-left: 5%;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    border-color: aliceblue;
+    box-shadow: 5px 5px 5px 5px rgba(50, 50, 240, 0.05);
+    
+}
+
+
+/*Trademark-vaccine*/
+
+#trademark-vaccine img {
+        
+    max-width: 100%;
+    height: auto;
+  
+}
+
+/* why-should*/
+
+#why-should .card {
+    padding: 8%;
+    height: 100%;
+}
+
+
+/*Preparations*/
+#preparations img {
+    max-width: 100%;
+    height: auto;
+  
+}
+
+
+/*preparations*/
+.list-group {
+    width: 90%;
+}
+
+
+/*Contac*/
+#contact img {
+    max-width: 100%;
+    height: auto;
+  
+}
+
+#contact .contac-cards {
+    width: 50%;
+    height: 50%;
+    padding: -5%;
+}
